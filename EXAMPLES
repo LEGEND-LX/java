@@ -250,6 +250,7 @@ Documentation using sphinx_rtd_theme
 * `Free your information from their silos (French) <http://redaction-technique.org/>`__ (customized)
 * `Releases Sphinx extension <https://releases.readthedocs.io/>`__
 * `Qtile <http://docs.qtile.org/>`__
+
 * `Quex <http://quex.sourceforge.net/doc/html/main.html>`__
 * `QuTiP <http://qutip.org/docs/latest/>`__
 * `Satchmo <http://docs.satchmoproject.com/>`__
@@ -270,6 +271,7 @@ Documentation using sphinx_rtd_theme
 * `SunPy <https://docs.sunpy.org/>`__
 * `Sylius <http://docs.sylius.org/>`__
 * `Syncthing <https://docs.syncthing.net/>`__
+
 * `Tango Controls <https://tango-controls.readthedocs.io/>`__ (customized)
 * `Topshelf <http://docs.topshelf-project.com/>`__
 * `Theano <http://www.deeplearning.net/software/theano/>`__
@@ -280,6 +282,7 @@ Documentation using sphinx_rtd_theme
 * `uWSGI <https://uwsgi-docs.readthedocs.io/>`__
 * `virtualenv <https://virtualenv.readthedocs.io/>`__
 * `Wagtail <https://docs.wagtail.io/>`__
+
 * `Web Application Attack and Audit Framework (w3af) <http://docs.w3af.org/>`__
 * `Weblate <https://docs.weblate.org/>`__
 * `x265 <https://x265.readthedocs.io/>`__
@@ -296,6 +299,7 @@ Documentation using sphinx_bootstrap_theme
 * `Hangfire <http://docs.hangfire.io/>`__
 * `Hedge <https://documen.tician.de/hedge/>`__
 * `ObsPy <https://docs.obspy.org/>`__
+
 * `Open Dylan <https://opendylan.org/documentation/>`__
 * `OPNFV <https://docs.opnfv.org/>`__
 * `Pootle <http://docs.translatehouse.org/projects/pootle/>`__
@@ -306,6 +310,8 @@ Documentation using a custom theme or integrated in a website
 -------------------------------------------------------------
 
 * `Apache Cassandra <https://cassandra.apache.org/doc/>`__
+
+
 * `Astropy <http://docs.astropy.org/>`__
 * `Bokeh <https://bokeh.pydata.org/>`__
 * `Boto 3 <https://boto3.readthedocs.io/>`__
@@ -313,6 +319,7 @@ Documentation using a custom theme or integrated in a website
 * `CasperJS <http://docs.casperjs.org/>`__
 * `Ceph <http://docs.ceph.com/docs/master/>`__
 * `Chef <https://docs.chef.io/>`__
+
 * `CKAN <https://docs.ckan.org/>`__
 * `Confluent Platform <https://docs.confluent.io/>`__
 * `Django <https://docs.djangoproject.com/>`__
@@ -332,6 +339,8 @@ Documentation using a custom theme or integrated in a website
 * `Lasso <http://lassoguide.com/>`__
 * `Mako <http://docs.makotemplates.org/>`__
 * `MirrorBrain <http://mirrorbrain.org/docs/>`__
+
+
 * `Mitiq <https://mitiq.readthedocs.io/>`__
 * `MongoDB <https://docs.mongodb.com/>`__
 * `Music21 <https://web.mit.edu/music21/doc/>`__
@@ -339,6 +348,7 @@ Documentation using a custom theme or integrated in a website
 * `ndnSIM <https://ndnsim.net/current/>`__
 * `nose <https://nose.readthedocs.io/>`__
 * `ns-3 <https://www.nsnam.org/documentation/>`__
+
 * `NumPy <https://docs.scipy.org/doc/numpy/reference/>`__
 * `ObjectListView <http://objectlistview.sourceforge.net/python/>`__
 * `OpenERP <https://doc.odoo.com/>`__
@@ -354,6 +364,7 @@ Documentation using a custom theme or integrated in a website
 * `PyMOTW <https://pymotw.com/2/>`__
 * `python-aspectlib <https://python-aspectlib.readthedocs.io/>`__ (`sphinx_py3doc_enhanced_theme <https://pypi.org/project/sphinx_py3doc_enhanced_theme/>`__)
 * `QGIS <https://qgis.org/en/docs/index.html>`__
+
 * `qooxdoo <https://www.qooxdoo.org/current/>`__
 * `Roundup <http://www.roundup-tracker.org/>`__
 * `SaltStack <https://docs.saltstack.com/>`__
@@ -372,6 +383,7 @@ Documentation using a custom theme or integrated in a website
 * `WebFaction <https://docs.webfaction.com/>`__
 * `WTForms <https://wtforms.readthedocs.io/>`__
 
+
 Homepages and other non-documentation sites
 -------------------------------------------
 
@@ -388,6 +400,7 @@ Homepages and other non-documentation sites
 * `Tech writer at work blog <https://blog.documatt.com/>`__ (custom theme)
 * `The Wine Cellar Book <https://www.thewinecellarbook.com/doc/en/>`__ (sphinxdoc)
 * `Thomas Cokelaer's Python, Sphinx and reStructuredText tutorials <https://thomas-cokelaer.info/tutorials/>`__ (standard)
+
 * `UC Berkeley ME233 Advanced Control Systems II course <https://berkeley-me233.github.io/>`__ (sphinxdoc)
 * `Željko Svedružić's Biomolecular Structure and Function Laboratory (BioSFLab) <https://www.svedruziclab.com/>`__ (sphinx_bootstrap_theme)
 
