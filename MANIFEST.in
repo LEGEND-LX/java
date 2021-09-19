@@ -8,6 +8,7 @@ include CONTRIBUTING.rst
 include EXAMPLES
 
 include babel.cfg
+
 include Makefile
 include sphinx-autogen.py
 include sphinx-build.py
@@ -28,5 +29,6 @@ recursive-include tests *
 recursive-include utils *
 
 recursive-include doc *
+
 prune doc/_build
 prune sphinx/locale/.tx
